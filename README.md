@@ -1,4 +1,4 @@
-# xharkTank-Backend
+# 🦈xharkTank-Backend
 Backend application for a platform based on the concept of Shark Tank, where businesses can post their pitches while investors put counter offers on it. 
 ## Overview
 Built this project as part of PhonePe's Tech Scholars Program.
